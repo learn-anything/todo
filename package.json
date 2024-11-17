@@ -1,0 +1,6 @@
+{
+  "name": "past",
+  "prettier": {
+    "semi": false
+  }
+}
